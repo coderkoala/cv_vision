@@ -1,0 +1,3 @@
+[submodule "opencv_zoo"]
+	path = opencv_zoo
+	url = https://github.com/opencv/opencv_zoo.git

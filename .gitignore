@@ -1,0 +1,10 @@
+# Local environment
+.venv/
+.env
+__pycache__/
+
+# Reference photos of known people stay on this machine
+faces/
+
+# Stray Git LFS pointer files; the real weights live in opencv_zoo
+/*.onnx
